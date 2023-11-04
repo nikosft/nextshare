@@ -8,6 +8,10 @@ The goal of this project is to provide open-source software that can be used for
 sharing. The project will initially target Raspberry Pis connected using ad-hoc networking. This setup
 emulates many emerging use cases, such as community networks, VANETs, (Aerial) MANETs.
 
+## Architecture
+
+![Protocol stack](img/stack.png)
+
 ## Team
  * Dr. Nikos Fotiou
  * Dr. Yannis Thomas
