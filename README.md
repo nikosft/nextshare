@@ -24,10 +24,8 @@ NEXTshare leverages [Babel](https://www.rfc-editor.org/rfc/rfc8966.html) routing
 ### Content connectivity
 This layer is responsible for enabling content lookup and retrieval. In this layer NEXTshare implements
 [Information Centric Networking](https://www.irtf.org/icnrg.html) (ICN) principles. In particular,
-NEXTshare implements the modified Named-Data Networking architecture described in [^1].
+NEXTshare implements the modified Named-Data Networking architecture described in [1].
 
-[^1] Y.Thomas, N. Fotiou, S. Toumpis, G.C. Polyzos, "Improving mobile ad hoc networks using hybrid IP-Information Centric Networking", 
-Elsevier Computer Communications, Volume 156, pages 25-34, 2022
 
 ### Content security
 This layer is responsible for providing content integrity and authenticity protections, as well as for
@@ -46,7 +44,7 @@ and it uses libraries and tools developed by the [SNDS](https://mm.aueb.gr/proje
 
 ## Research
 NEXTshare is based on research outcomes presented in this papers:
-* N. Fotiou, Y. Thomas, V.A. Siris, G. Xylomenos, G.C. Polyzos, "Self-verifiable content using decentralized identifiers," 
+1. N. Fotiou, Y. Thomas, V.A. Siris, G. Xylomenos, G.C. Polyzos, "Self-verifiable content using decentralized identifiers," 
 Elsevier Computer Networks, Volume 230, 2023 [pdf](https://mm.aueb.gr/publications/7c997192-418c-48b9-9b2c-cf19ebdc3a4e.pdf)
-* Y.Thomas, N. Fotiou, S. Toumpis, G.C. Polyzos, "Improving mobile ad hoc networks using hybrid IP-Information Centric Networking", 
+2. Y.Thomas, N. Fotiou, S. Toumpis, G.C. Polyzos, "Improving mobile ad hoc networks using hybrid IP-Information Centric Networking", 
 Elsevier Computer Communications, Volume 156, pages 25-34, 2022 [pdf](http://pages.cs.aueb.gr/~thomasi/papers/2020_ComCom_HybridAdhoc.pdf)
